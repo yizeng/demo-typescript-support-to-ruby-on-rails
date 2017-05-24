@@ -1,5 +1,7 @@
 {
   "name": "typescript-demo",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "typescript": "^2.3.3"
+  }
 }
